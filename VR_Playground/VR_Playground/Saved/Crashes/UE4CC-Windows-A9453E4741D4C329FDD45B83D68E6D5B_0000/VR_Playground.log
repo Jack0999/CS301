@@ -1,0 +1,823 @@
+﻿Log file open, 06/12/19 08:44:50
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: VR_Playground
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.279631
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +12:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.088s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files (x86)/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.06.11-20.44.50:637][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.06.11-20.44.50:637][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.06.11-20.44.50:637][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Config/Windows/Engine.ini]
+[2019.06.11-20.44.50:637][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.06.11-20.44.50:637][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.06.11-20.44.50:637][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2019.06.11-20.44.50:637][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2019.06.11-20.44.50:637][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.06.11-20.44.50:637][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2019.06.11-20.44.50:637][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2019.06.11-20.44.50:637][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2019.06.11-20.44.50:637][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Config/Windows/Engine.ini]
+[2019.06.11-20.44.50:637][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Config/Windows/Engine.ini]
+[2019.06.11-20.44.50:637][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.06.11-20.44.50:637][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.06.11-20.44.50:637][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.06.11-20.44.50:638][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.06.11-20.44.50:638][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.06.11-20.44.50:638][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.06.11-20.44.50:638][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.06.11-20.44.50:638][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.06.11-20.44.50:638][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.06.11-20.44.50:638][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.06.11-20.44.50:638][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.06.11-20.44.50:638][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.06.11-20.44.50:638][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.06.11-20.44.50:638][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Config/Windows/Engine.ini]
+[2019.06.11-20.44.50:638][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.06.11-20.44.50:638][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.06.11-20.44.50:638][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.06.11-20.44.50:638][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.06.11-20.44.50:638][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.06.11-20.44.50:638][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.06.11-20.44.50:638][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.06.11-20.44.50:638][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.06.11-20.44.50:638][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.06.11-20.44.50:638][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.06.11-20.44.50:638][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.06.11-20.44.50:638][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.06.11-20.44.50:638][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.06.11-20.44.50:638][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.06.11-20.44.50:638][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Config/Windows/Engine.ini]
+[2019.06.11-20.44.50:638][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Config/Windows/Engine.ini]
+[2019.06.11-20.44.50:644][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Config/Windows/Scalability.ini]
+[2019.06.11-20.44.50:644][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.11-20.44.50:644][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.11-20.44.50:644][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Config/Windows/Scalability.ini]
+[2019.06.11-20.44.50:644][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.06.11-20.44.50:644][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Config/Windows/Scalability.ini]
+[2019.06.11-20.44.50:644][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.11-20.44.50:644][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.11-20.44.50:644][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.11-20.44.50:644][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.11-20.44.50:644][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.11-20.44.50:644][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.11-20.44.50:644][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.11-20.44.50:644][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.11-20.44.50:644][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.11-20.44.50:644][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.11-20.44.50:644][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.11-20.44.50:644][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.11-20.44.50:644][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.11-20.44.50:644][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.11-20.44.50:644][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.11-20.44.50:644][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.11-20.44.50:644][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Config/Windows/Scalability.ini]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Config/Windows/Scalability.ini]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Config/Windows/Scalability.ini]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.11-20.44.50:645][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.11-20.44.50:646][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.11-20.44.50:646][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.11-20.44.50:646][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.11-20.44.50:646][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.11-20.44.50:646][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.11-20.44.50:646][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Config/Windows/Scalability.ini]
+[2019.06.11-20.44.50:646][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.11-20.44.50:646][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.11-20.44.50:646][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.11-20.44.50:646][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.11-20.44.50:657][  0]LogHAL: Display: Platform has ~ 16 GB [17120251904 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.11-20.44.50:657][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.06.11-20.44.50:657][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.11-20.44.50:658][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Config/Windows/Scalability.ini]
+[2019.06.11-20.44.50:658][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.11-20.44.50:658][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.11-20.44.50:658][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Config/Windows/Scalability.ini]
+[2019.06.11-20.44.50:658][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.06.11-20.44.50:658][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Config/Windows/Scalability.ini]
+[2019.06.11-20.44.50:658][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.11-20.44.50:658][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.11-20.44.50:658][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.11-20.44.50:658][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.11-20.44.50:658][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.11-20.44.50:658][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.11-20.44.50:658][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.11-20.44.50:658][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.11-20.44.50:658][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.11-20.44.50:658][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.11-20.44.50:658][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.11-20.44.50:658][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.11-20.44.50:658][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.11-20.44.50:658][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.11-20.44.50:658][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.11-20.44.50:658][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.11-20.44.50:658][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.11-20.44.50:658][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.11-20.44.50:658][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Config/Windows/Scalability.ini]
+[2019.06.11-20.44.50:658][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.06.11-20.44.50:658][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.11-20.44.50:658][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.11-20.44.50:658][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.06.11-20.44.50:658][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.11-20.44.50:658][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.06.11-20.44.50:658][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.11-20.44.50:658][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.06.11-20.44.50:658][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.06.11-20.44.50:658][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.11-20.44.50:658][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.06.11-20.44.50:658][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.06.11-20.44.50:658][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.11-20.44.50:658][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.11-20.44.50:658][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.11-20.44.50:658][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.11-20.44.50:658][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.11-20.44.50:658][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.11-20.44.50:658][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.11-20.44.50:658][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.11-20.44.50:658][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.11-20.44.50:658][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.11-20.44.50:659][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.11-20.44.50:659][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.11-20.44.50:659][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.11-20.44.50:659][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.11-20.44.50:659][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.11-20.44.50:659][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.11-20.44.50:659][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.11-20.44.50:659][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.11-20.44.50:659][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Config/Windows/Scalability.ini]
+[2019.06.11-20.44.50:659][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.11-20.44.50:659][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.11-20.44.50:659][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.11-20.44.50:659][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.11-20.44.50:659][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.11-20.44.50:659][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.11-20.44.50:659][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.11-20.44.50:659][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.11-20.44.50:659][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Config/Windows/Scalability.ini]
+[2019.06.11-20.44.50:659][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.06.11-20.44.50:659][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.11-20.44.50:659][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.06.11-20.44.50:659][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.06.11-20.44.50:659][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.11-20.44.50:659][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.06.11-20.44.50:659][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.11-20.44.50:659][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.11-20.44.50:659][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.11-20.44.50:659][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.11-20.44.50:659][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.11-20.44.50:659][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.11-20.44.50:659][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.11-20.44.50:659][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Config/Windows/Scalability.ini]
+[2019.06.11-20.44.50:659][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.11-20.44.50:659][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.11-20.44.50:659][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.06.11-20.44.50:659][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.06.11-20.44.50:659][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Config/Windows/Engine.ini]
+[2019.06.11-20.44.50:660][  0]LogInit: Computer: QUE385-1004-12
+[2019.06.11-20.44.50:660][  0]LogInit: User: FAS00002E2
+[2019.06.11-20.44.50:660][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.06.11-20.44.50:660][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.06.11-20.44.50:660][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.06.11-20.44.50:660][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.11-20.44.50:660][  0]LogMemory: Process Physical Memory: 103.13 MB used, 103.13 MB peak
+[2019.06.11-20.44.50:660][  0]LogMemory: Process Virtual Memory: 91.52 MB used, 91.52 MB peak
+[2019.06.11-20.44.50:660][  0]LogMemory: Physical Memory: 4558.04 MB used,  11769.10 MB free, 16327.14 MB total
+[2019.06.11-20.44.50:660][  0]LogMemory: Virtual Memory: 4651.57 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.06.11-20.44.50:689][  0]LogInit: Using OS detected language (en-US).
+[2019.06.11-20.44.50:689][  0]LogInit: Using OS detected locale (en-NZ).
+[2019.06.11-20.44.50:690][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.06.11-20.44.51:075][  0]LogStreaming: Display: Took  0.385s to InitEngineTextLocalization.
+[2019.06.11-20.44.51:075][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.11-20.44.51:116][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.11-20.44.51:116][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.11-20.44.54:185][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.11-20.44.54:266][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.06.11-20.44.54:266][  0]LogD3D11RHI:       8088/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.06.11-20.44.54:269][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.11-20.44.54:269][  0]LogD3D11RHI:       0/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.11-20.44.54:269][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.11-20.44.54:278][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.11-20.44.54:278][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2019.06.11-20.44.54:278][  0]LogWindows: EnumDisplayDevices:
+[2019.06.11-20.44.54:278][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.06.11-20.44.54:279][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2019.06.11-20.44.54:279][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.06.11-20.44.54:279][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.06.11-20.44.54:280][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.06.11-20.44.54:280][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.06.11-20.44.54:280][  0]LogD3D11RHI:   Driver Version: 430.39 (internal:26.21.14.3039, unified:430.39)
+[2019.06.11-20.44.54:280][  0]LogD3D11RHI:      Driver Date: 4-17-2019
+[2019.06.11-20.44.54:280][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2019.06.11-20.44.54:338][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.11-20.44.54:353][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.06.11-20.44.55:012][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.06.11-20.44.55:031][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.06.11-20.44.55:051][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.06.11-20.44.55:074][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.06.11-20.44.55:092][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.06.11-20.44.55:112][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.06.11-20.44.55:126][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.06.11-20.44.55:141][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.06.11-20.44.55:149][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.06.11-20.44.55:231][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.11-20.44.55:231][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.11-20.44.55:231][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.11-20.44.55:231][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.11-20.44.55:231][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.11-20.44.55:231][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.11-20.44.55:231][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.11-20.44.55:231][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.11-20.44.55:231][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.11-20.44.55:231][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.11-20.44.55:231][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.11-20.44.55:231][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.11-20.44.55:231][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.11-20.44.55:231][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.11-20.44.55:231][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.11-20.44.55:231][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.11-20.44.55:231][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.11-20.44.55:231][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.11-20.44.55:527][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.06.11-20.44.55:622][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.11-20.44.55:622][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.11-20.44.55:662][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.11-20.44.55:662][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.11-20.44.55:683][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.06.11-20.44.55:698][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.06.11-20.44.55:716][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.06.11-20.44.55:735][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.06.11-20.44.55:798][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.11-20.44.55:798][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.11-20.44.55:798][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.11-20.44.55:876][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Intermediate/Shaders/WorkingDirectory/2184/).
+[2019.06.11-20.44.55:876][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/fas00002e2/AppData/Local/Temp/UnrealShaderWorkingDir/AE8C6F834A6FC50C87EA02984EAFE1E0/'.
+[2019.06.11-20.44.55:878][  0]LogXGEController: Cleaning working directory: C:/Users/fas00002e2/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.06.11-20.44.55:890][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2019.06.11-20.44.56:774][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.11-20.44.56:844][  0]LogDerivedDataCache: Loaded boot cache 0.07s 72MB C:/Users/fas00002e2/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.06.11-20.44.56:844][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/fas00002e2/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.06.11-20.44.56:844][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.11-20.44.56:844][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.11-20.44.56:844][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.11-20.44.56:844][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.11-20.44.56:867][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.11-20.44.56:867][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.11-20.44.56:867][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.06.11-20.44.56:885][  0]LogDerivedDataCache: Using Local data cache path C:/Users/fas00002e2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.11-20.44.56:885][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.11-20.44.56:885][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.11-20.44.56:935][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.11-20.44.56:937][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.11-20.44.56:938][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.11-20.44.57:060][  0]LogAssetRegistry: FAssetRegistry took 0.0458 seconds to start up
+[2019.06.11-20.44.57:626][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.11-20.44.57:932][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.06.11-20.44.57:940][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.06.11-20.44.57:940][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.11-20.44.57:940][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.11-20.44.57:940][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.06.11-20.44.57:967][  0]LogNetVersion: VR_Playground 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 36149422)
+[2019.06.11-20.44.58:911][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.143483 seconds
+[2019.06.11-20.44.58:921][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.06.11-20.44.58:921][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.06.11-20.44.58:921][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.11-20.45.00:240][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.11-20.45.00:257][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.11-20.45.01:194][  0]SourceControl: Source control is disabled
+[2019.06.11-20.45.01:194][  0]SourceControl: Source control is disabled
+[2019.06.11-20.45.01:198][  0]SourceControl: Source control is disabled
+[2019.06.11-20.45.01:201][  0]SourceControl: Source control is disabled
+[2019.06.11-20.45.01:436][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.11-20.45.01:574][  0]LogOcInput: OculusInput pre-init called
+[2019.06.11-20.45.01:730][  0]LogEngine: Initializing Engine...
+[2019.06.11-20.45.01:810][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-BD24C36C
+[2019.06.11-20.45.01:812][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.11-20.45.01:812][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.11-20.45.01:812][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.11-20.45.01:812][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.11-20.45.02:111][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.11-20.45.02:129][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.11-20.45.02:257][  0]LogInit: XAudio2 using 'HTC-VIVE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.11-20.45.02:332][  0]LogInit: FAudioDevice initialized.
+[2019.06.11-20.45.02:333][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.11-20.45.02:423][  0]LogDerivedDataCache: Saved boot cache 0.09s 72MB C:/Users/fas00002e2/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.06.11-20.45.02:430][  0]LogInit: Texture streaming: Enabled
+[2019.06.11-20.45.02:456][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.11-20.45.02:474][  0]LogInit: Transaction tracking system initialized
+[2019.06.11-20.45.02:506][  0]BlueprintLog: New page: Editor Load
+[2019.06.11-20.45.02:606][  0]LocalizationService: Localization service is disabled
+[2019.06.11-20.45.03:139][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/' took 0.02s
+[2019.06.11-20.45.03:139][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.11-20.45.03:139][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.11-20.45.03:139][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.06.11-20.45.03:139][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.11-20.45.03:139][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.11-20.45.03:139][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.11-20.45.03:139][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.11-20.45.03:302][  0]SourceControl: Source control is disabled
+[2019.06.11-20.45.03:302][  0]Cmd: MAP LOAD FILE="../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.11-20.45.03:305][  0]LightingResults: New page: Lighting Build
+[2019.06.11-20.45.03:309][  0]MapCheck: New page: Map Check
+[2019.06.11-20.45.03:309][  0]LightingResults: New page: Lighting Build
+[2019.06.11-20.45.03:451][  0]LogAIModule: Creating AISystem for world StartupMap
+[2019.06.11-20.45.03:458][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.11-20.45.03:480][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.11-20.45.03:480][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.136ms to complete.
+[2019.06.11-20.45.03:480][  0]LogFileHelpers: Loading map 'StartupMap' took 0.178
+[2019.06.11-20.45.03:573][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-20.45.03:583][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-20.45.03:592][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-20.45.03:599][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-20.45.03:606][  0]LogCollectionManager: Loaded 0 collections in 0.002115 seconds
+[2019.06.11-20.45.03:622][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Collections/' took 0.01s
+[2019.06.11-20.45.03:623][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/Developers/FAS00002E2/Collections/' took 0.00s
+[2019.06.11-20.45.03:623][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/Collections/' took 0.00s
+[2019.06.11-20.45.03:623][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.06.11-20.45.03:632][  0]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2651 classes and 620 folders.
+[2019.06.11-20.45.03:638][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.06.11-20.45.03:639][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.11-20.45.03:640][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.11-20.45.03:640][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.11-20.45.03:640][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.11-20.45.03:641][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.11-20.45.03:641][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.11-20.45.03:642][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.11-20.45.03:642][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.11-20.45.03:642][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.11-20.45.03:643][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.11-20.45.03:643][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.11-20.45.03:644][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.11-20.45.03:644][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.11-20.45.03:644][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.11-20.45.03:645][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.11-20.45.03:645][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.11-20.45.03:646][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.11-20.45.03:646][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.11-20.45.03:646][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.11-20.45.03:647][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.11-20.45.03:647][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.11-20.45.03:648][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.11-20.45.03:648][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.11-20.45.03:649][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.11-20.45.03:649][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.11-20.45.03:650][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.11-20.45.03:686][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.06.11-20.45.03:691][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.06.11-20.45.03:775][  0]LogSlate: Took 0.004787 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.11-20.45.03:781][  0]LogSlate: Took 0.003384 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.11-20.45.03:788][  0]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.11-20.45.03:883][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 26 NumSamples 1 (Frame:1).
+[2019.06.11-20.45.04:043][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.06.11-20.45.04:043][  0]LogLoad: (Engine Initialization) Total time: 14.98 seconds
+[2019.06.11-20.45.04:043][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.11-20.45.04:106][  0]LogAssetRegistry: Asset discovery search completed in 7.0721 seconds
+[2019.06.11-20.45.04:108][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.06.11-20.45.04:108][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000096 seconds (updated 0 objects)
+[2019.06.11-20.45.04:114][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.06.11-20.45.04:172][  0]LogSlate: Took 0.000307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.11-20.45.04:391][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/' took 0.32s
+[2019.06.11-20.45.05:401][  4]LogSlate: Took 0.000277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.11-20.46.02:465][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-20.46.06:736][787]LogAIModule: Creating AISystem for world Playground
+[2019.06.11-20.46.06:746][787]LogAssetEditorManager: Opening Asset editor for World /Game/VirtualRealityBP/Maps/Playground.Playground
+[2019.06.11-20.46.06:774][787]Cmd: MAP LOAD FILE="../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/VirtualRealityBP/Maps/Playground.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.11-20.46.06:774][787]LightingResults: New page: Lighting Build
+[2019.06.11-20.46.06:775][787]LoadErrors: New page: Loading map: Playground.umap
+[2019.06.11-20.46.06:776][787]MapCheck: New page: Map Check
+[2019.06.11-20.46.06:776][787]LightingResults: New page: Lighting Build
+[2019.06.11-20.46.06:889][787]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.11-20.46.06:934][787]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.11-20.46.06:934][787]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.1ms to complete.
+[2019.06.11-20.46.06:934][787]LogFileHelpers: Loading map 'Playground' took 0.161
+[2019.06.11-20.46.07:668][865]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/TargetGame/TargetGameBP.TargetGameBP
+[2019.06.11-20.46.08:145][865]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 117 classes and 0 folders.
+[2019.06.11-20.46.08:978][865]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/TargetGame/TargetThrowingBall.TargetThrowingBall
+[2019.06.11-20.46.09:268][865]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController
+[2019.06.11-20.46.09:602][865]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2019.06.11-20.46.09:919][865]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/TargetGame/targetButton.TargetButton
+[2019.06.11-20.46.10:231][865]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/HoopGame/HoopButton.HoopButton
+[2019.06.11-20.46.10:545][865]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/HoopGame/HoopGameBP.HoopGameBP
+[2019.06.11-20.46.10:887][865]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/HoopGame/Hoop1.Hoop1
+[2019.06.11-20.46.11:193][865]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/TargetGame/Target1.Target1
+[2019.06.11-20.46.11:527][865]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-20.46.11:591][865]LogSlate: Took 0.002175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.06.11-20.46.11:697][866]LogSlate: Took 0.000309 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.06.11-20.46.17:790][309]LogSlate: Window 'HoopButton' being destroyed
+[2019.06.11-20.46.21:834][690]LogSlate: Window 'Target1' being destroyed
+[2019.06.11-21.04.11:299][764]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.04.14:300][115]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.04.28:574][810]BlueprintLog: New page: Compile Hoop1
+[2019.06.11-21.04.28:582][810]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.04.28:764][810]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.04.28:768][810]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.04.29:134][849]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.04.29:185][849]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Hoop17948DC764DA68E50B04870878BE8EBD8.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/VirtualRealityBP/Blueprints/HoopGame/Hoop1.uasset'
+[2019.06.11-21.04.57:528][209]BlueprintLog: New page: Compile Hoop1
+[2019.06.11-21.04.57:534][209]LogBlueprint: Warning: [Compiler Hoop1] Could not find a variable named "Hoop Points" in 'Hoop1_C'.
+Make sure 'Hoop1_C' has been compiled for  Set Hoop Points
+[2019.06.11-21.04.57:535][209]LogBlueprint: Error: [Compiler Hoop1] The property associated with  Hoop Points  could not be found in '/Game/VirtualRealityBP/Blueprints/HoopGame/Hoop1.Hoop1_C'
+[2019.06.11-21.04.57:718][209]LogBlueprint: Warning: [Compiler Hoop1] [1208.70] Compile of Hoop1 failed. 1 Fatal Issue(s) 1 Warning(s) [in 189 ms] (/Game/VirtualRealityBP/Blueprints/HoopGame/Hoop1.Hoop1)
+[2019.06.11-21.05.06:462][248]BlueprintLog: New page: Compile Hoop1
+[2019.06.11-21.05.06:469][248]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.05.06:470][248]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_1.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_1.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.05.06:640][248]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.05.06:641][248]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_1.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_1.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.05.06:642][248]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_2.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_2.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.05.06:646][248]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.05.06:646][248]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_2.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_2.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.05.07:188][304]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Hoop1C91985B644CFD92766000BAC4EEBA45F.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/VirtualRealityBP/Blueprints/HoopGame/Hoop1.uasset'
+[2019.06.11-21.05.09:636][594]BlueprintLog: New page: Compile HoopGameBP
+[2019.06.11-21.05.09:837][594]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.05.09:838][594]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_2.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_2.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.05.09:853][594]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.05.09:854][594]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_2.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_2.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.05.10:145][620]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/HoopGameBPD0512A0847C16813FBD71894B21843E6.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/VirtualRealityBP/Blueprints/HoopGame/HoopGameBP.uasset'
+[2019.06.11-21.05.58:977][418]BlueprintLog: New page: Compile Hoop1
+[2019.06.11-21.05.58:987][418]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.05.58:988][418]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_2.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_2.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.05.59:163][418]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.05.59:163][418]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_2.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_2.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.05.59:164][418]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_3.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_3.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.05.59:167][418]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.05.59:168][418]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_3.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_3.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.05.59:608][461]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Hoop1E6936F1B4AF8C50B594E52B9C4EE7261.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/VirtualRealityBP/Blueprints/HoopGame/Hoop1.uasset'
+[2019.06.11-21.06.29:874][220]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Playground_Auto1E54C14B649CA49B7F19213B0F5BAB811.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Autosaves/Game/VirtualRealityBP/Maps/Playground_Auto1.umap'
+[2019.06.11-21.06.29:878][220]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/Playground' took 0.277
+[2019.06.11-21.06.29:878][220]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.277
+[2019.06.11-21.07.17:665][612]BlueprintLog: New page: Compile Hoop1
+[2019.06.11-21.07.17:674][612]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.07.17:674][612]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_3.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_3.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.07.17:840][612]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.07.17:841][612]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_3.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_3.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.07.17:842][612]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_4.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_4.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.07.17:846][612]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.07.17:847][612]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_4.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_4.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.07.18:208][646]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Hoop18A4E9F9D4053CA9F6162D88BF55E0BC4.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/VirtualRealityBP/Blueprints/HoopGame/Hoop1.uasset'
+[2019.06.11-21.08.09:438][986]BlueprintLog: New page: Compile Hoop1
+[2019.06.11-21.08.09:448][986]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.08.09:448][986]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_4.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_4.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.08.09:627][986]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.08.09:628][986]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_4.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_4.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.08.09:628][986]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_5.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_5.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.08.09:632][986]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.08.09:632][986]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_5.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_5.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.08.10:003][ 21]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Hoop1C02260B04E04F5D58EADE58BE29AA234.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/VirtualRealityBP/Blueprints/HoopGame/Hoop1.uasset'
+[2019.06.11-21.10.33:810][882]BlueprintLog: New page: Compile HoopGameBP
+[2019.06.11-21.10.34:011][882]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.10.34:012][882]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_5.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_5.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.10.34:028][882]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.10.34:028][882]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_5.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_5.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.10.34:587][940]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/HoopGameBPDE8403CD4CEA4F5D708E5B85A6D13D7A.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/VirtualRealityBP/Blueprints/HoopGame/HoopGameBP.uasset'
+[2019.06.11-21.11.22:044][512]BlueprintLog: New page: Compile Hoop1
+[2019.06.11-21.11.22:052][512]LogBlueprint: Warning: [Compiler Hoop1] Could not find a variable named "Hoop Points" in 'Hoop1_C'.
+Make sure 'Hoop1_C' has been compiled for  Set Hoop Points
+[2019.06.11-21.11.22:053][512]LogBlueprint: Error: [Compiler Hoop1] The property associated with  Hoop Points  could not be found in '/Game/VirtualRealityBP/Blueprints/HoopGame/Hoop1.Hoop1_C'
+[2019.06.11-21.11.22:232][512]LogBlueprint: Warning: [Compiler Hoop1] [1593.23] Compile of Hoop1 failed. 1 Fatal Issue(s) 1 Warning(s) [in 187 ms] (/Game/VirtualRealityBP/Blueprints/HoopGame/Hoop1.Hoop1)
+[2019.06.11-21.11.22:839][575]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Hoop18E302D334FACFD1C38001C9CFF43400C.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/VirtualRealityBP/Blueprints/HoopGame/Hoop1.uasset'
+[2019.06.11-21.11.42:993][957]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.11.42:994][957]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_6.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_6.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.11.44:804][169]BlueprintLog: New page: Compile Hoop1
+[2019.06.11-21.11.44:815][169]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.11.44:815][169]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_6.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_6.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.11.44:989][169]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.11.44:989][169]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_6.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_6.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.11.44:990][169]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_7.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_7.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.11.44:994][169]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.11.44:995][169]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_7.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_7.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.11.45:955][274]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Hoop150AB0C344F6A463E4844B187D4209502.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/VirtualRealityBP/Blueprints/HoopGame/Hoop1.uasset'
+[2019.06.11-21.11.51:171][764]LogSlate: Window 'Delete Variable' being destroyed
+[2019.06.11-21.11.51:182][764]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.11.51:183][764]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_7.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_7.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.11.53:321][ 18]BlueprintLog: New page: Compile Hoop1
+[2019.06.11-21.11.53:332][ 18]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.11.53:333][ 18]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_7.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_7.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.11.53:502][ 18]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.11.53:503][ 18]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_7.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_7.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.11.53:503][ 18]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_8.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_8.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.11.53:507][ 18]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.11.53:508][ 18]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_8.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_8.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.11.54:065][ 75]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Hoop1179B520D4009C4B6D98290BEE3153535.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/VirtualRealityBP/Blueprints/HoopGame/Hoop1.uasset'
+[2019.06.11-21.15.00:564][283]BlueprintLog: New page: Compile Hoop1
+[2019.06.11-21.15.00:577][283]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.15.00:578][283]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_8.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_8.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.15.00:760][283]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.15.00:761][283]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_8.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_8.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.15.00:761][283]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_9.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_9.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.15.00:765][283]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.15.00:766][283]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_9.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_9.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.15.01:474][356]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Hoop17DB28E714F03FCAE155E4DAAB882AF5C.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/VirtualRealityBP/Blueprints/HoopGame/Hoop1.uasset'
+[2019.06.11-21.15.13:183][748]BlueprintLog: New page: Compile Hoop1
+[2019.06.11-21.15.13:196][748]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.15.13:197][748]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_9.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_9.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.15.13:367][748]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.15.13:368][748]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_9.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_9.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.15.13:368][748]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_10.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_10.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.15.13:372][748]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.15.13:373][748]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_10.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_10.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.15.13:778][787]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Hoop1501639304BAF7174726405BE0497081A.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/VirtualRealityBP/Blueprints/HoopGame/Hoop1.uasset'
+[2019.06.11-21.16.32:395][391]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Playground_Auto23EE1A3BB4F95FA62AD131FA15220675D.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Autosaves/Game/VirtualRealityBP/Maps/Playground_Auto2.umap'
+[2019.06.11-21.16.32:398][391]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/Playground' took 0.274
+[2019.06.11-21.16.32:398][391]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.274
+[2019.06.11-21.16.32:401][391]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/HoopGame/HoopGameBP] ([1] browsable assets)...
+[2019.06.11-21.16.32:401][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/HoopGame/HoopGameBP]
+[2019.06.11-21.16.32:433][391]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/HoopGameBP_Auto2B3753E704FA1A2D92AD3838F0501BBFE.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/HoopGame/HoopGameBP_Auto2.uasset'
+[2019.06.11-21.16.32:434][391]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/TargetGame/Target1] ([1] browsable assets)...
+[2019.06.11-21.16.32:450][391]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/TargetGame/Target1.Target1]
+[2019.06.11-21.16.32:450][391]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/TargetGame/Target1]
+[2019.06.11-21.16.32:498][391]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Target1_Auto218E78E3241DE4DC2D3A88D95B736DD9A.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/TargetGame/Target1_Auto2.uasset'
+[2019.06.11-21.16.32:500][391]LogFileHelpers: Auto-saving content packages took 0.100
+[2019.06.11-21.19.09:480][ 66]BlueprintLog: New page: Compile Hoop1
+[2019.06.11-21.19.09:491][ 66]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.19.09:491][ 66]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_10.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_10.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.19.09:679][ 66]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.19.09:680][ 66]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_10.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_10.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.19.09:681][ 66]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_11.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_11.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.19.09:685][ 66]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.19.09:686][ 66]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_11.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_11.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.19.10:153][112]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Hoop1A843185A42107A9C46D65FA7926E5EC6.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/VirtualRealityBP/Blueprints/HoopGame/Hoop1.uasset'
+[2019.06.11-21.20.20:512][201]BlueprintLog: New page: Compile HoopGameBP
+[2019.06.11-21.20.20:714][201]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.20.20:714][201]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_11.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_11.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.20.20:729][201]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.20.20:730][201]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_11.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_11.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.20.21:166][245]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/HoopGameBP6CF8EFE1404B5B612F9F498C9CFE8694.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/VirtualRealityBP/Blueprints/HoopGame/HoopGameBP.uasset'
+[2019.06.11-21.21.33:012][255]PIE: Warning: AttachTo: '/Engine/Transient.World_18:PersistentLevel.Hoop2_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop2"), cannot attach '/Engine/Transient.World_18:PersistentLevel.Hoop2_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.21.35:519][528]PIE: Warning: AttachTo: '/Engine/Transient.World_19:PersistentLevel.Hoop3_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop3"), cannot attach '/Engine/Transient.World_19:PersistentLevel.Hoop3_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.21.43:859][449]PIE: Warning: AttachTo: '/Engine/Transient.World_20:PersistentLevel.Hoop4_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop4"), cannot attach '/Engine/Transient.World_20:PersistentLevel.Hoop4_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.21.46:209][687]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Playground0AD4CF134F6E5BE11F1DA8B2145C4192.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/VirtualRealityBP/Maps/Playground.umap'
+[2019.06.11-21.21.46:354][687]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Playground_BuiltDataB997E6F14ACC7F5316EDFEB836728EBE.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/VirtualRealityBP/Maps/Playground_BuiltData.uasset'
+[2019.06.11-21.21.51:601][297]BlueprintLog: New page: Compile Target1
+[2019.06.11-21.21.52:474][360]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Target1BD7822884F9B601ABE9FEEA4412A69FD.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/VirtualRealityBP/Blueprints/TargetGame/Target1.uasset'
+[2019.06.11-21.30.43:247][688]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.30.43:248][688]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_11.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_11.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.30.52:507][792]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.30.52:508][792]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_11.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_11.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.31.09:452][783]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.31.09:453][783]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_11.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_11.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.31.09:459][783]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.31.09:460][783]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_11.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_11.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.31.10:522][904]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.31.10:523][904]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_11.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_11.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.32.04:316][313]BlueprintLog: New page: Compile Hoop1
+[2019.06.11-21.32.04:331][313]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.32.04:331][313]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_11.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_11.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.32.04:524][313]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.32.04:525][313]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_11.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_11.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.32.04:525][313]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_12.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_12.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.32.04:528][313]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.32.04:529][313]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_12.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_9:PersistentLevel.Hoop1_C_12.StaticMesh' which is static to it. Aborting.
+[2019.06.11-21.32.05:137][375]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Hoop1AB079BD0495167CD38332E9FB714CA70.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/VirtualRealityBP/Blueprints/HoopGame/Hoop1.uasset'
+[2019.06.11-21.32.31:479][615]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Playground_Auto346DB4348439809BA4F3D788744717785.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Autosaves/Game/VirtualRealityBP/Maps/Playground_Auto3.umap'
+[2019.06.11-21.32.31:482][615]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/Playground' took 0.284
+[2019.06.11-21.32.31:482][615]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.284
+[2019.06.11-21.32.31:484][615]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/HoopGame/HoopGameBP] ([1] browsable assets)...
+[2019.06.11-21.32.31:484][615]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/HoopGame/HoopGameBP]
+[2019.06.11-21.32.31:515][615]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/HoopGameBP_Auto36453318846A3C3668D44B8A44B58705A.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/HoopGame/HoopGameBP_Auto3.uasset'
+[2019.06.11-21.32.31:517][615]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/HoopGame/Hoop2] ([1] browsable assets)...
+[2019.06.11-21.32.31:528][615]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/HoopGame/Hoop2.Hoop2]
+[2019.06.11-21.32.31:528][615]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/HoopGame/Hoop2]
+[2019.06.11-21.32.31:552][615]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Hoop2_Auto3903049BC4A89F0BF395EFF9BF408136F.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/HoopGame/Hoop2_Auto3.uasset'
+[2019.06.11-21.32.31:553][615]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/HoopGame/Hoop3] ([1] browsable assets)...
+[2019.06.11-21.32.31:565][615]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/HoopGame/Hoop3.Hoop3]
+[2019.06.11-21.32.31:565][615]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/HoopGame/Hoop3]
+[2019.06.11-21.32.31:589][615]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Hoop3_Auto336C498724D85FDDF31D2008928E2EF83.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/HoopGame/Hoop3_Auto3.uasset'
+[2019.06.11-21.32.31:590][615]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/HoopGame/Hoop4] ([1] browsable assets)...
+[2019.06.11-21.32.31:601][615]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/HoopGame/Hoop4.Hoop4]
+[2019.06.11-21.32.31:601][615]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/HoopGame/Hoop4]
+[2019.06.11-21.32.31:628][615]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Hoop4_Auto3D888EA8F481AD5BF0102F0B663DB1B27.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/HoopGame/Hoop4_Auto3.uasset'
+[2019.06.11-21.32.31:629][615]LogFileHelpers: Auto-saving content packages took 0.145
+[2019.06.11-21.35.01:936][449]LogEditorTransaction: Undo Mouse Drag
+[2019.06.11-21.35.01:937][449]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.06.11-21.35.03:007][449]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.070 s
+[2019.06.11-21.35.03:007][449]LogOutputDevice: Error: === Handled ensure: ===
+[2019.06.11-21.35.03:007][449]LogOutputDevice: Error: 
+[2019.06.11-21.35.03:007][449]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2105]
+[2019.06.11-21.35.03:007][449]LogOutputDevice: Error: 
+[2019.06.11-21.35.03:007][449]LogOutputDevice: Error: Stack: 
+[2019.06.11-21.35.03:007][449]LogOutputDevice: Error: [Callstack] 0x00007ffdbb8a8508 UE4Editor-Engine.dll!UnknownFunction []
+[2019.06.11-21.35.03:007][449]LogOutputDevice: Error: [Callstack] 0x00007ffdad79fd42 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.11-21.35.03:007][449]LogOutputDevice: Error: [Callstack] 0x00007ffdad7cac06 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.11-21.35.03:007][449]LogOutputDevice: Error: [Callstack] 0x00007ffdad7b131c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.11-21.35.03:007][449]LogOutputDevice: Error: [Callstack] 0x00007ffdad81b337 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.11-21.35.03:007][449]LogOutputDevice: Error: [Callstack] 0x00007ffdad85f63f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.11-21.35.03:007][449]LogOutputDevice: Error: [Callstack] 0x00007ffdad7f717f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.11-21.35.03:007][449]LogOutputDevice: Error: [Callstack] 0x00007ffdade10458 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.11-21.35.03:007][449]LogOutputDevice: Error: [Callstack] 0x00007ffdc809206f UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.11-21.35.03:007][449]LogOutputDevice: Error: [Callstack] 0x00007ffdc80d4c8e UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.11-21.35.03:007][449]LogOutputDevice: Error: [Callstack] 0x00007ffdade54966 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.11-21.35.03:007][449]LogOutputDevice: Error: [Callstack] 0x00007ffdc805694c UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.11-21.35.03:007][449]LogOutputDevice: Error: [Callstack] 0x00007ffdc80d697c UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.11-21.35.03:007][449]LogOutputDevice: Error: [Callstack] 0x00007ffdc80c9a36 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.11-21.35.03:007][449]LogOutputDevice: Error: [Callstack] 0x00007ffdce53daa4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.11-21.35.03:007][449]LogOutputDevice: Error: [Callstack] 0x00007ffdce530de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.11-21.35.03:007][449]LogOutputDevice: Error: [Callstack] 0x00007ffdce5401eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.11-21.35.03:007][449]LogOutputDevice: Error: [Callstack] 0x00007ffdce52ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.11-21.35.03:007][449]LogOutputDevice: Error: [Callstack] 0x00007ffdf95aca66 USER32.dll!UnknownFunction []
+[2019.06.11-21.35.03:007][449]LogOutputDevice: Error: [Callstack] 0x00007ffdf95ac582 USER32.dll!UnknownFunction []
+[2019.06.11-21.35.03:007][449]LogOutputDevice: Error: [Callstack] 0x00007ffdce541746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.06.11-21.35.03:007][449]LogOutputDevice: Error: [Callstack] 0x00007ff66b1f5546 UE4Editor.exe!UnknownFunction []
+[2019.06.11-21.35.03:007][449]LogOutputDevice: Error: [Callstack] 0x00007ff66b20596c UE4Editor.exe!UnknownFunction []
+[2019.06.11-21.35.03:007][449]LogOutputDevice: Error: [Callstack] 0x00007ff66b2059ea UE4Editor.exe!UnknownFunction []
+[2019.06.11-21.35.03:007][449]LogOutputDevice: Error: [Callstack] 0x00007ff66b2148da UE4Editor.exe!UnknownFunction []
+[2019.06.11-21.35.03:007][449]LogOutputDevice: Error: [Callstack] 0x00007ff66b21659a UE4Editor.exe!UnknownFunction []
+[2019.06.11-21.35.03:007][449]LogOutputDevice: Error: [Callstack] 0x00007ffdf9e17974 KERNEL32.DLL!UnknownFunction []
+[2019.06.11-21.35.03:007][449]LogOutputDevice: Error: [Callstack] 0x00007ffdfad3a271 ntdll.dll!UnknownFunction []
+[2019.06.11-21.35.03:007][449]LogOutputDevice: Error: 
+[2019.06.11-21.35.03:015][449]LogStats:                SubmitErrorReport -  0.000 s
