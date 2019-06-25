@@ -1,0 +1,788 @@
+﻿Log file open, 06/25/19 13:12:06
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: VR_Playground
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.285129
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +12:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.092s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files (x86)/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.06.25-01.12.06:392][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.06.25-01.12.06:392][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.06.25-01.12.06:393][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Config/Windows/Engine.ini]
+[2019.06.25-01.12.06:393][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.06.25-01.12.06:393][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.06.25-01.12.06:393][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2019.06.25-01.12.06:393][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2019.06.25-01.12.06:393][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.06.25-01.12.06:393][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2019.06.25-01.12.06:393][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2019.06.25-01.12.06:393][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2019.06.25-01.12.06:393][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Config/Windows/Engine.ini]
+[2019.06.25-01.12.06:393][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Config/Windows/Engine.ini]
+[2019.06.25-01.12.06:393][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.06.25-01.12.06:393][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.06.25-01.12.06:393][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.06.25-01.12.06:393][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.06.25-01.12.06:393][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.06.25-01.12.06:393][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.06.25-01.12.06:393][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.06.25-01.12.06:393][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.06.25-01.12.06:393][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.06.25-01.12.06:393][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.06.25-01.12.06:393][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.06.25-01.12.06:393][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.06.25-01.12.06:393][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.06.25-01.12.06:393][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Config/Windows/Engine.ini]
+[2019.06.25-01.12.06:393][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.06.25-01.12.06:393][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.06.25-01.12.06:393][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.06.25-01.12.06:393][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.06.25-01.12.06:393][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.06.25-01.12.06:393][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.06.25-01.12.06:393][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.06.25-01.12.06:393][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.06.25-01.12.06:393][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.06.25-01.12.06:393][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.06.25-01.12.06:393][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.06.25-01.12.06:393][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.06.25-01.12.06:393][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.06.25-01.12.06:393][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.06.25-01.12.06:393][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Config/Windows/Engine.ini]
+[2019.06.25-01.12.06:393][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Config/Windows/Engine.ini]
+[2019.06.25-01.12.06:398][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Config/Windows/Scalability.ini]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Config/Windows/Scalability.ini]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Config/Windows/Scalability.ini]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Config/Windows/Scalability.ini]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.25-01.12.06:399][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Config/Windows/Scalability.ini]
+[2019.06.25-01.12.06:400][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.25-01.12.06:400][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.25-01.12.06:400][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.25-01.12.06:400][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.25-01.12.06:400][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.25-01.12.06:400][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.25-01.12.06:400][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.25-01.12.06:400][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.25-01.12.06:400][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Config/Windows/Scalability.ini]
+[2019.06.25-01.12.06:400][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.06.25-01.12.06:400][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.25-01.12.06:400][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.06.25-01.12.06:400][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.06.25-01.12.06:400][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.25-01.12.06:400][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.06.25-01.12.06:400][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.25-01.12.06:400][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.25-01.12.06:400][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.25-01.12.06:400][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.25-01.12.06:400][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.25-01.12.06:400][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.25-01.12.06:400][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.25-01.12.06:400][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Config/Windows/Scalability.ini]
+[2019.06.25-01.12.06:400][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.25-01.12.06:400][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.25-01.12.06:400][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.25-01.12.06:400][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.25-01.12.06:408][  0]LogHAL: Display: Platform has ~ 16 GB [17120251904 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.25-01.12.06:408][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.06.25-01.12.06:408][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.25-01.12.06:408][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Config/Windows/Scalability.ini]
+[2019.06.25-01.12.06:408][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.25-01.12.06:408][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.25-01.12.06:408][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Config/Windows/Scalability.ini]
+[2019.06.25-01.12.06:408][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Config/Windows/Scalability.ini]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Config/Windows/Scalability.ini]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Config/Windows/Scalability.ini]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Config/Windows/Scalability.ini]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.25-01.12.06:409][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.25-01.12.06:410][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.25-01.12.06:410][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Config/Windows/Scalability.ini]
+[2019.06.25-01.12.06:410][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.25-01.12.06:410][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.25-01.12.06:410][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.06.25-01.12.06:410][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.06.25-01.12.06:410][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Config/Windows/Engine.ini]
+[2019.06.25-01.12.06:410][  0]LogInit: Computer: QUE385-1004-12
+[2019.06.25-01.12.06:410][  0]LogInit: User: fas00002e2
+[2019.06.25-01.12.06:410][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.06.25-01.12.06:410][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.06.25-01.12.06:410][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.06.25-01.12.06:410][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.25-01.12.06:410][  0]LogMemory: Process Physical Memory: 103.46 MB used, 103.47 MB peak
+[2019.06.25-01.12.06:410][  0]LogMemory: Process Virtual Memory: 90.26 MB used, 90.26 MB peak
+[2019.06.25-01.12.06:410][  0]LogMemory: Physical Memory: 6644.64 MB used,  9682.50 MB free, 16327.14 MB total
+[2019.06.25-01.12.06:410][  0]LogMemory: Virtual Memory: 4650.01 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.06.25-01.12.06:447][  0]LogInit: Using OS detected language (en-US).
+[2019.06.25-01.12.06:447][  0]LogInit: Using OS detected locale (en-NZ).
+[2019.06.25-01.12.06:448][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.06.25-01.12.06:864][  0]LogStreaming: Display: Took  0.417s to InitEngineTextLocalization.
+[2019.06.25-01.12.06:865][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.25-01.12.06:922][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.25-01.12.06:922][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.25-01.12.10:241][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.25-01.12.10:310][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.06.25-01.12.10:310][  0]LogD3D11RHI:       8088/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.06.25-01.12.10:316][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.25-01.12.10:316][  0]LogD3D11RHI:       0/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.25-01.12.10:316][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.25-01.12.10:325][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.25-01.12.10:325][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2019.06.25-01.12.10:325][  0]LogWindows: EnumDisplayDevices:
+[2019.06.25-01.12.10:325][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.06.25-01.12.10:325][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2019.06.25-01.12.10:326][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.06.25-01.12.10:326][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.06.25-01.12.10:326][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.06.25-01.12.10:326][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.06.25-01.12.10:326][  0]LogD3D11RHI:   Driver Version: 430.39 (internal:26.21.14.3039, unified:430.39)
+[2019.06.25-01.12.10:327][  0]LogD3D11RHI:      Driver Date: 4-17-2019
+[2019.06.25-01.12.10:327][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2019.06.25-01.12.10:373][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.25-01.12.10:386][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.06.25-01.12.11:101][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.06.25-01.12.11:113][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.06.25-01.12.11:126][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.06.25-01.12.11:139][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.06.25-01.12.11:153][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.06.25-01.12.11:166][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.06.25-01.12.11:180][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.06.25-01.12.11:194][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.06.25-01.12.11:200][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.06.25-01.12.11:284][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-01.12.11:284][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-01.12.11:284][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-01.12.11:284][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-01.12.11:284][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-01.12.11:284][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-01.12.11:284][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-01.12.11:284][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-01.12.11:284][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-01.12.11:284][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-01.12.11:284][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-01.12.11:284][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-01.12.11:284][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-01.12.11:284][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-01.12.11:284][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-01.12.11:284][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-01.12.11:284][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-01.12.11:284][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-01.12.11:288][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.06.25-01.12.11:351][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.25-01.12.11:351][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.25-01.12.11:377][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.25-01.12.11:377][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.25-01.12.11:392][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.06.25-01.12.11:403][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.06.25-01.12.11:417][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.06.25-01.12.11:430][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.06.25-01.12.11:475][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.25-01.12.11:475][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.25-01.12.11:475][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.25-01.12.11:561][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Intermediate/Shaders/WorkingDirectory/2436/).
+[2019.06.25-01.12.11:561][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/fas00002e2/AppData/Local/Temp/UnrealShaderWorkingDir/11D128354617C83592B9BDB40FE2681C/'.
+[2019.06.25-01.12.11:563][  0]LogXGEController: Cleaning working directory: C:/Users/fas00002e2/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.06.25-01.12.11:575][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2019.06.25-01.12.12:159][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.25-01.12.12:216][  0]LogDerivedDataCache: Loaded boot cache 0.06s 72MB C:/Users/fas00002e2/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.06.25-01.12.12:216][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/fas00002e2/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.06.25-01.12.12:216][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.25-01.12.12:216][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.25-01.12.12:216][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.25-01.12.12:216][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.25-01.12.12:232][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.25-01.12.12:232][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.25-01.12.12:232][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.06.25-01.12.12:245][  0]LogDerivedDataCache: Using Local data cache path C:/Users/fas00002e2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.25-01.12.12:245][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.25-01.12.12:245][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.25-01.12.12:273][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.25-01.12.12:274][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.25-01.12.12:275][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.25-01.12.12:364][  0]LogAssetRegistry: FAssetRegistry took 0.0336 seconds to start up
+[2019.06.25-01.12.12:741][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.25-01.12.12:820][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.06.25-01.12.12:825][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.06.25-01.12.12:825][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.25-01.12.12:825][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.25-01.12.12:825][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.06.25-01.12.12:937][  0]LogNetVersion: VR_Playground 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 36149422)
+[2019.06.25-01.12.13:577][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.100024 seconds
+[2019.06.25-01.12.13:585][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.06.25-01.12.13:585][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.06.25-01.12.13:585][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.25-01.12.14:749][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.25-01.12.14:764][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.25-01.12.15:643][  0]SourceControl: Source control is disabled
+[2019.06.25-01.12.15:643][  0]SourceControl: Source control is disabled
+[2019.06.25-01.12.15:646][  0]SourceControl: Source control is disabled
+[2019.06.25-01.12.15:649][  0]SourceControl: Source control is disabled
+[2019.06.25-01.12.15:856][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.25-01.12.15:974][  0]LogOcInput: OculusInput pre-init called
+[2019.06.25-01.12.16:121][  0]LogEngine: Initializing Engine...
+[2019.06.25-01.12.16:214][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-BD24C36C
+[2019.06.25-01.12.16:215][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.25-01.12.16:215][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.25-01.12.16:215][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.25-01.12.16:215][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.25-01.12.16:499][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.25-01.12.16:513][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.25-01.12.16:615][  0]LogInit: XAudio2 using 'HTC-VIVE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.25-01.12.16:651][  0]LogInit: FAudioDevice initialized.
+[2019.06.25-01.12.16:651][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.25-01.12.16:756][  0]LogDerivedDataCache: Saved boot cache 0.10s 72MB C:/Users/fas00002e2/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.06.25-01.12.16:763][  0]LogInit: Texture streaming: Enabled
+[2019.06.25-01.12.16:789][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.25-01.12.16:810][  0]LogInit: Transaction tracking system initialized
+[2019.06.25-01.12.16:843][  0]BlueprintLog: New page: Editor Load
+[2019.06.25-01.12.16:949][  0]LocalizationService: Localization service is disabled
+[2019.06.25-01.12.17:490][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/' took 0.02s
+[2019.06.25-01.12.17:490][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.25-01.12.17:490][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.25-01.12.17:490][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.06.25-01.12.17:490][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.25-01.12.17:490][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.25-01.12.17:490][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.25-01.12.17:490][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.25-01.12.17:713][  0]SourceControl: Source control is disabled
+[2019.06.25-01.12.17:713][  0]Cmd: MAP LOAD FILE="../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.25-01.12.17:713][  0]LightingResults: New page: Lighting Build
+[2019.06.25-01.12.17:716][  0]MapCheck: New page: Map Check
+[2019.06.25-01.12.17:716][  0]LightingResults: New page: Lighting Build
+[2019.06.25-01.12.17:863][  0]LogAIModule: Creating AISystem for world StartupMap
+[2019.06.25-01.12.17:871][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.25-01.12.17:896][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.25-01.12.17:896][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.16ms to complete.
+[2019.06.25-01.12.17:896][  0]LogFileHelpers: Loading map 'StartupMap' took 0.183
+[2019.06.25-01.12.18:012][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.25-01.12.18:023][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.25-01.12.18:034][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.25-01.12.18:047][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.25-01.12.18:055][  0]LogCollectionManager: Loaded 0 collections in 0.001982 seconds
+[2019.06.25-01.12.18:084][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Collections/' took 0.01s
+[2019.06.25-01.12.18:084][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/Developers/fas00002e2/Collections/' took 0.00s
+[2019.06.25-01.12.18:084][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/Collections/' took 0.01s
+[2019.06.25-01.12.18:084][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.06.25-01.12.18:096][  0]LogContentBrowser: Native class hierarchy populated in 0.0118 seconds. Added 2651 classes and 620 folders.
+[2019.06.25-01.12.18:104][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.06.25-01.12.18:113][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-01.12.18:114][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-01.12.18:115][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-01.12.18:115][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-01.12.18:116][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-01.12.18:117][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-01.12.18:117][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-01.12.18:118][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-01.12.18:119][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-01.12.18:119][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-01.12.18:120][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-01.12.18:121][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-01.12.18:122][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-01.12.18:122][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-01.12.18:123][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-01.12.18:124][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-01.12.18:125][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-01.12.18:125][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-01.12.18:126][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-01.12.18:126][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-01.12.18:127][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-01.12.18:128][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-01.12.18:128][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-01.12.18:129][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-01.12.18:130][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-01.12.18:130][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-01.12.18:163][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.06.25-01.12.18:168][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.06.25-01.12.18:256][  0]LogSlate: Took 0.000437 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.25-01.12.18:260][  0]LogSlate: Took 0.000361 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.25-01.12.18:269][  0]LogSlate: Took 0.000429 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.25-01.12.18:381][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 26 NumSamples 1 (Frame:1).
+[2019.06.25-01.12.18:580][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.06.25-01.12.18:580][  0]LogLoad: (Engine Initialization) Total time: 13.94 seconds
+[2019.06.25-01.12.18:580][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.25-01.12.18:638][  0]LogAssetRegistry: Asset discovery search completed in 6.2968 seconds
+[2019.06.25-01.12.18:640][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.06.25-01.12.18:640][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000053 seconds (updated 0 objects)
+[2019.06.25-01.12.18:642][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.06.25-01.12.18:676][  0]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.25-01.12.18:683][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/' took 0.07s
+[2019.06.25-01.12.19:616][106]LogSlate: Took 0.000364 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.25-01.12.22:083][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-01.12.22:212][385]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/HammerGame/Hammer.Hammer
+[2019.06.25-01.12.22:894][385]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 117 classes and 0 folders.
+[2019.06.25-01.12.24:446][385]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/TargetGame/TargetGameBP.TargetGameBP
+[2019.06.25-01.12.24:868][385]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/HammerGame/HammerGameBP.HammerGameBP
+[2019.06.25-01.12.25:185][385]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController
+[2019.06.25-01.12.25:566][385]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2019.06.25-01.12.25:903][385]LogSlate: Took 0.002551 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.06.25-01.12.26:162][386]LogSlate: Took 0.000346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.06.25-01.12.29:990][683]LogSlate: Window 'HammerGameBP' being destroyed
+[2019.06.25-01.15.13:623][373]LogAIModule: Creating AISystem for world Playground
+[2019.06.25-01.15.13:631][373]PIE: Warning: AttachTo: '/Game/VirtualRealityBP/Maps/Playground.Playground:PersistentLevel.Hoop2_2.DefaultSceneRoot' is not static  (in blueprint "Hoop2"), cannot attach '/Game/VirtualRealityBP/Maps/Playground.Playground:PersistentLevel.Hoop2_2.StaticMesh' which is static to it. Aborting.
+[2019.06.25-01.15.13:632][373]PIE: Warning: AttachTo: '/Game/VirtualRealityBP/Maps/Playground.Playground:PersistentLevel.Hoop3_2.DefaultSceneRoot' is not static  (in blueprint "Hoop3"), cannot attach '/Game/VirtualRealityBP/Maps/Playground.Playground:PersistentLevel.Hoop3_2.StaticMesh' which is static to it. Aborting.
+[2019.06.25-01.15.13:633][373]PIE: Warning: AttachTo: '/Game/VirtualRealityBP/Maps/Playground.Playground:PersistentLevel.Hoop4_2.DefaultSceneRoot' is not static  (in blueprint "Hoop4"), cannot attach '/Game/VirtualRealityBP/Maps/Playground.Playground:PersistentLevel.Hoop4_2.StaticMesh' which is static to it. Aborting.
+[2019.06.25-01.15.13:633][373]PIE: Warning: AttachTo: '/Game/VirtualRealityBP/Maps/Playground.Playground:PersistentLevel.Hoop1_8.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Game/VirtualRealityBP/Maps/Playground.Playground:PersistentLevel.Hoop1_8.StaticMesh' which is static to it. Aborting.
+[2019.06.25-01.15.13:642][373]LogAssetEditorManager: Opening Asset editor for World /Game/VirtualRealityBP/Maps/Playground.Playground
+[2019.06.25-01.15.13:685][373]Cmd: MAP LOAD FILE="../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/VirtualRealityBP/Maps/Playground.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.25-01.15.13:685][373]LightingResults: New page: Lighting Build
+[2019.06.25-01.15.13:686][373]LoadErrors: New page: Loading map: Playground.umap
+[2019.06.25-01.15.13:687][373]MapCheck: New page: Map Check
+[2019.06.25-01.15.13:687][373]LightingResults: New page: Lighting Build
+[2019.06.25-01.15.13:728][373]PIE: Warning: AttachTo: '/Game/VirtualRealityBP/Maps/Playground.Playground:PersistentLevel.Hoop2_2.DefaultSceneRoot' is not static  (in blueprint "Hoop2"), cannot attach '/Game/VirtualRealityBP/Maps/Playground.Playground:PersistentLevel.Hoop2_2.StaticMesh' which is static to it. Aborting.
+[2019.06.25-01.15.13:729][373]PIE: Warning: AttachTo: '/Game/VirtualRealityBP/Maps/Playground.Playground:PersistentLevel.Hoop3_2.DefaultSceneRoot' is not static  (in blueprint "Hoop3"), cannot attach '/Game/VirtualRealityBP/Maps/Playground.Playground:PersistentLevel.Hoop3_2.StaticMesh' which is static to it. Aborting.
+[2019.06.25-01.15.13:730][373]PIE: Warning: AttachTo: '/Game/VirtualRealityBP/Maps/Playground.Playground:PersistentLevel.Hoop4_2.DefaultSceneRoot' is not static  (in blueprint "Hoop4"), cannot attach '/Game/VirtualRealityBP/Maps/Playground.Playground:PersistentLevel.Hoop4_2.StaticMesh' which is static to it. Aborting.
+[2019.06.25-01.15.13:731][373]PIE: Warning: AttachTo: '/Game/VirtualRealityBP/Maps/Playground.Playground:PersistentLevel.Hoop1_8.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Game/VirtualRealityBP/Maps/Playground.Playground:PersistentLevel.Hoop1_8.StaticMesh' which is static to it. Aborting.
+[2019.06.25-01.15.13:831][373]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.25-01.15.13:890][373]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.25-01.15.13:890][373]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.105ms to complete.
+[2019.06.25-01.15.13:890][373]LogFileHelpers: Loading map 'Playground' took 0.206
+[2019.06.25-01.15.24:117][550]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-01.15.24:367][578]LogActorFactory: Actor Factory created Sphere
+[2019.06.25-01.15.25:425][702]LogActorFactory: Actor Factory created Sphere
+[2019.06.25-01.15.26:299][788]Cmd: DELETE
+[2019.06.25-01.15.26:299][788]Cmd: ACTOR DELETE
+[2019.06.25-01.15.26:304][788]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-01.15.26:337][788]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2019.06.25-01.15.27:447][912]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-01.15.36:279][778]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.06.25-01.15.49:520][295]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/HammerGame/HammerTarget1.HammerTarget1
+[2019.06.25-01.15.49:908][296]LogRenderer: Reallocating scene render targets to support 1208x900 Format 26 NumSamples 1 (Frame:1).
+[2019.06.25-01.17.00:961][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-01.17.07:641][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-01.17.22:611][968]LogMaterial: Display: Missing cached shader map for material GlowDefault, compiling. 
+[2019.06.25-01.17.30:527][626]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.25-01.20.09:288][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-01.20.15:662][635]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.25-01.20.25:213][718]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-01.20.25:279][726]BlueprintLog: New page: Compile HammerTarget1
+[2019.06.25-01.20.25:793][755]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/HammerTarget18927BBBC45C1A9BC07B093A13753AF2F.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/VirtualRealityBP/Blueprints/HammerGame/HammerTarget1.uasset'
+[2019.06.25-01.20.27:019][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-01.25.14:098][421]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Playground_Auto19A48E6B340DB5D47431B4D8E4A25C2C4.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Autosaves/Game/VirtualRealityBP/Maps/Playground_Auto1.umap'
+[2019.06.25-01.25.14:102][421]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/Playground' took 0.262
+[2019.06.25-01.25.14:102][421]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.262
+[2019.06.25-01.34.18:105][ 97]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x300)
+[2019.06.25-01.34.23:745][696]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-01.34.28:124][160]PIE: Warning: AttachTo: '/Engine/Transient.World_14:PersistentLevel.Hoop4_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop4"), cannot attach '/Engine/Transient.World_14:PersistentLevel.Hoop4_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.25-01.34.28:142][161]PIE: Warning: AttachTo: '/Engine/Transient.World_15:PersistentLevel.Hoop3_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop3"), cannot attach '/Engine/Transient.World_15:PersistentLevel.Hoop3_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.25-01.34.28:165][162]PIE: Warning: AttachTo: '/Engine/Transient.World_16:PersistentLevel.Hoop2_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop2"), cannot attach '/Engine/Transient.World_16:PersistentLevel.Hoop2_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.25-01.34.28:181][163]PIE: Warning: AttachTo: '/Engine/Transient.World_17:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_17:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.25-01.34.30:391][370]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/HoopGame/Hoop1.Hoop1
+[2019.06.25-01.34.30:690][370]PIE: Warning: AttachTo: '/Engine/Transient.World_22:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_22:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.25-01.34.32:411][549]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/HoopGame/Hoop2.Hoop2
+[2019.06.25-01.34.32:714][549]PIE: Warning: AttachTo: '/Engine/Transient.World_23:PersistentLevel.Hoop2_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop2"), cannot attach '/Engine/Transient.World_23:PersistentLevel.Hoop2_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.25-01.34.34:032][680]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/HoopGame/Hoop3.Hoop3
+[2019.06.25-01.34.34:335][680]PIE: Warning: AttachTo: '/Engine/Transient.World_24:PersistentLevel.Hoop3_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop3"), cannot attach '/Engine/Transient.World_24:PersistentLevel.Hoop3_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.25-01.34.35:542][794]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/HoopGame/Hoop4.Hoop4
+[2019.06.25-01.34.35:844][794]PIE: Warning: AttachTo: '/Engine/Transient.World_25:PersistentLevel.Hoop4_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop4"), cannot attach '/Engine/Transient.World_25:PersistentLevel.Hoop4_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.25-01.34.40:016][285]PIE: Warning: AttachTo: '/Engine/Transient.World_22:PersistentLevel.Hoop1_C_0.DefaultSceneRoot' is not static  (in blueprint "Hoop1"), cannot attach '/Engine/Transient.World_22:PersistentLevel.Hoop1_C_0.StaticMesh' which is static to it. Aborting.
+[2019.06.25-01.34.46:747][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-01.34.55:758][ 82]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.06.25-01.34.57:022][226]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.06.25-01.34.57:708][301]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.06.25-01.35.04:509][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-01.35.06:817][368]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-01.35.06:883][376]BlueprintLog: New page: Compile HammerTarget1
+[2019.06.25-01.35.07:506][414]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/HammerTarget17BFF60EA4721ABE7D7EC6D99E0985B1F.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/VirtualRealityBP/Blueprints/HammerGame/HammerTarget1.uasset'
+[2019.06.25-01.35.09:133][556]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/PlaygroundFF875D334B1F293559493DA6FD18282F.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/VirtualRealityBP/Maps/Playground.umap'
+[2019.06.25-01.35.09:273][556]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Playground_BuiltData9A60EACB45ED16E606895696788B6C08.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/VirtualRealityBP/Maps/Playground_BuiltData.uasset'
+[2019.06.25-01.35.10:917][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-01.39.11:919][209]BlueprintLog: New page: Compile HammerTarget1
+[2019.06.25-01.39.12:905][297]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/HammerTarget18C380C064EC7AEC3AACA63A639328AB7.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/VirtualRealityBP/Blueprints/HammerGame/HammerTarget1.uasset'
+[2019.06.25-01.45.53:365][466]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.06.25-01.45.53:442][466]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/HammerGame/HammerGameBP.HammerGameBP
+[2019.06.25-01.46.10:743][356]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/TargetGame/Target1.Target1
+[2019.06.25-01.47.33:394][100]LogSlate: Took 0.004037 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.06.25-01.48.41:936][ 49]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.06.25-01.49.04:724][719]BlueprintLog: New page: Compile HammerTarget1
+[2019.06.25-01.49.05:478][773]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/HammerTarget169CC9DD342CB26CFCA5933853CECF111.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/VirtualRealityBP/Blueprints/HammerGame/HammerTarget1.uasset'
+[2019.06.25-01.49.30:112][934]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/Playground' took 0.039
+[2019.06.25-01.49.30:113][934]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/HammerGame/HammerGameBP] ([1] browsable assets)...
+[2019.06.25-01.49.30:114][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/HammerGame/HammerGameBP]
+[2019.06.25-01.49.30:138][934]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/HammerGameBP_Auto2033C494A40F2F391B30FF2B9E2EC4B13.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/HammerGame/HammerGameBP_Auto2.uasset'
+[2019.06.25-01.49.30:139][934]LogFileHelpers: Auto-saving content packages took 0.026
+[2019.06.25-01.57.33:898][711]BlueprintLog: New page: Compile HammerTarget1
+[2019.06.25-01.57.33:911][711]LogBlueprint: Error: [Compiler HammerTarget1] The property associated with  <Unnamed>  could not be found in '/Game/VirtualRealityBP/Blueprints/HammerGame/HammerTarget1.HammerTarget1_C'
+[2019.06.25-01.57.33:911][711]LogBlueprint: Error: [Compiler HammerTarget1] The property associated with  Hammer Points  could not be found in '/Game/VirtualRealityBP/Blueprints/HammerGame/HammerTarget1.HammerTarget1_C'
+[2019.06.25-01.57.33:911][711]LogBlueprint: Error: [Compiler HammerTarget1] The property associated with  Hammer Points  could not be found in '/Game/VirtualRealityBP/Blueprints/HammerGame/HammerTarget1.HammerTarget1_C'
+[2019.06.25-01.57.34:089][711]LogBlueprint: Warning: [Compiler HammerTarget1] [2729.53] Compile of HammerTarget1 failed. 3 Fatal Issue(s) 0 Warning(s) [in 190 ms] (/Game/VirtualRealityBP/Blueprints/HammerGame/HammerTarget1.HammerTarget1)
+[2019.06.25-01.57.34:452][743]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/HammerTarget1992771A4416EDED36B17C995CCD18647.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/VirtualRealityBP/Blueprints/HammerGame/HammerTarget1.uasset'
+[2019.06.25-01.59.30:782][991]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/Playground' took 0.041
+[2019.06.25-01.59.30:783][991]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/HammerGame/HammerTarget1] ([1] browsable assets)...
+[2019.06.25-01.59.30:783][991]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/HammerGame/HammerTarget1]
+[2019.06.25-01.59.30:814][991]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/HammerTarget1_Auto34762802F4D94777FCD69C392C4B89F26.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/HammerGame/HammerTarget1_Auto3.uasset'
+[2019.06.25-01.59.30:815][991]LogFileHelpers: Auto-saving content packages took 0.033
+[2019.06.25-02.04.35:753][180]BlueprintLog: New page: Compile HammerGameBP
+[2019.06.25-02.05.40:515][552]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.06.25-02.06.28:666][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-02.10.38:774][198]BlueprintLog: New page: Compile HammerGameBP
+[2019.06.25-02.10.38:789][198]LogBlueprint: Warning: [Compiler HammerGameBP] Could not find a variable named "MaxValue" in 'HammerGameBP_C'.
+Make sure 'HammerGameBP_C' has been compiled for  Get MaxValue
+[2019.06.25-02.10.38:790][198]LogBlueprint: Warning: [Compiler HammerGameBP] Could not find a variable named "MaxValue" in 'HammerGameBP_C'.
+Make sure 'HammerGameBP_C' has been compiled for  Set MaxValue
+[2019.06.25-02.10.38:790][198]LogBlueprint: Error: [Compiler HammerGameBP] The property associated with  Max Value  could not be found in '/Game/VirtualRealityBP/Blueprints/HammerGame/HammerGameBP.HammerGameBP_C'
+[2019.06.25-02.10.38:790][198]LogBlueprint: Error: [Compiler HammerGameBP] The property associated with  Max Value  could not be found in '/Game/VirtualRealityBP/Blueprints/HammerGame/HammerGameBP.HammerGameBP_C'
+[2019.06.25-02.10.38:970][198]LogBlueprint: Warning: [Compiler HammerGameBP] [3514.47] Compile of HammerGameBP failed. 2 Fatal Issue(s) 2 Warning(s) [in 195 ms] (/Game/VirtualRealityBP/Blueprints/HammerGame/HammerGameBP.HammerGameBP)
+[2019.06.25-02.10.56:972][215]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/HoopGame/HoopGameBP.HoopGameBP
+[2019.06.25-02.11.16:211][368]BlueprintLog: New page: Compile HammerGameBP
+[2019.06.25-02.11.16:224][368]LogBlueprint: Warning: [Compiler HammerGameBP] Could not find a variable named "MaxValue" in 'HammerGameBP_C'.
+Make sure 'HammerGameBP_C' has been compiled for  Get MaxValue
+[2019.06.25-02.11.16:224][368]LogBlueprint: Warning: [Compiler HammerGameBP] Could not find a variable named "MaxValue" in 'HammerGameBP_C'.
+Make sure 'HammerGameBP_C' has been compiled for  Set MaxValue
+[2019.06.25-02.11.16:224][368]LogBlueprint: Error: [Compiler HammerGameBP] The property associated with  Max Value  could not be found in '/Game/VirtualRealityBP/Blueprints/HammerGame/HammerGameBP.HammerGameBP_C'
+[2019.06.25-02.11.16:224][368]LogBlueprint: Error: [Compiler HammerGameBP] The property associated with  Max Value  could not be found in '/Game/VirtualRealityBP/Blueprints/HammerGame/HammerGameBP.HammerGameBP_C'
+[2019.06.25-02.11.16:402][368]LogBlueprint: Warning: [Compiler HammerGameBP] [3551.91] Compile of HammerGameBP failed. 2 Fatal Issue(s) 2 Warning(s) [in 191 ms] (/Game/VirtualRealityBP/Blueprints/HammerGame/HammerGameBP.HammerGameBP)
+[2019.06.25-02.11.17:209][455]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/HammerGameBP2826165746EF38C122C914851F357A87.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/VirtualRealityBP/Blueprints/HammerGame/HammerGameBP.uasset'
+[2019.06.25-02.11.36:770][752]LogEditorTransaction: Undo Move Node
+[2019.06.25-02.11.37:124][787]LogEditorTransaction: Undo Add Node
+[2019.06.25-02.11.37:545][833]LogEditorTransaction: Undo Delete current selection
+[2019.06.25-02.11.56:894][113]BlueprintLog: New page: Compile HammerGameBP
+[2019.06.25-02.11.57:516][156]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/HammerGameBPE3D6768B4584D7B0667C2F875766C32C.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/VirtualRealityBP/Blueprints/HammerGame/HammerGameBP.uasset'
+[2019.06.25-02.12.23:577][267]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/Playground' took 0.038
+[2019.06.25-02.12.23:578][267]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/HammerGame/HammerTarget1] ([1] browsable assets)...
+[2019.06.25-02.12.23:591][267]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/HammerGame/HammerTarget1.HammerTarget1]
+[2019.06.25-02.12.23:591][267]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/HammerGame/HammerTarget1]
+[2019.06.25-02.12.23:634][267]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/HammerTarget1_Auto41AC8C4A840503F0F3C2DC7818504DE09.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/HammerGame/HammerTarget1_Auto4.uasset'
+[2019.06.25-02.12.23:635][267]LogFileHelpers: Auto-saving content packages took 0.057
+[2019.06.25-02.17.27:198][956]BlueprintLog: New page: Compile HammerTarget1
+[2019.06.25-02.17.27:836][996]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/HammerTarget1B4FC3FC24DD21C70134EE18DEC2B7C29.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/VirtualRealityBP/Blueprints/HammerGame/HammerTarget1.uasset'
+[2019.06.25-02.18.14:312][509]BlueprintLog: New page: Compile HammerGameBP
+[2019.06.25-02.18.15:030][562]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/HammerGameBP32667BA84CB30527797A799BCF9624D2.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/VirtualRealityBP/Blueprints/HammerGame/HammerGameBP.uasset'
+[2019.06.25-02.18.24:752][689]BlueprintLog: New page: Compile HammerGameBP
+[2019.06.25-02.18.25:210][712]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/HammerGameBP3AAA578C4CAAA35003DBF68B4125CEFF.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/VirtualRealityBP/Blueprints/HammerGame/HammerGameBP.uasset'
+[2019.06.25-02.22.48:110][920]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.06.25-02.23.17:088][306]BlueprintLog: New page: Compile HammerGameBP
+[2019.06.25-02.23.17:617][331]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/HammerGameBP5303C2F543CA4CA1E0586E89FAB48BCD.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/VirtualRealityBP/Blueprints/HammerGame/HammerGameBP.uasset'
+[2019.06.25-02.23.36:217][235]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.06.25-02.24.36:843][296]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/HammerGameBP9AC6F8B54BD8E00876EDC4A6BC198100.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/VirtualRealityBP/Blueprints/HammerGame/HammerGameBP.uasset'
+[2019.06.25-02.26.05:276][392]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-02.27.04:677][313]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/Playground' took 0.046
+[2019.06.25-02.27.04:679][313]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/TargetGame/TargetGameBP] ([1] browsable assets)...
+[2019.06.25-02.27.04:679][313]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/TargetGame/TargetGameBP]
+[2019.06.25-02.27.04:729][313]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/TargetGameBP_Auto5C825E7AA4B6ED4EA0EAB6C8F24D26BEF.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/TargetGame/TargetGameBP_Auto5.uasset'
+[2019.06.25-02.27.04:731][313]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn] ([1] browsable assets)...
+[2019.06.25-02.27.04:731][313]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn]
+[2019.06.25-02.27.04:839][313]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/MotionControllerPawn_Auto5FA4499FC43775EFA206579BA64C0F31D.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/MotionControllerPawn_Auto5.uasset'
+[2019.06.25-02.27.04:841][313]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/HammerGame/HammerGameBP] ([1] browsable assets)...
+[2019.06.25-02.27.04:841][313]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/HammerGame/HammerGameBP]
+[2019.06.25-02.27.04:880][313]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/HammerGameBP_Auto53831CFEE420B82B085622A8638D879B3.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/HammerGame/HammerGameBP_Auto5.uasset'
+[2019.06.25-02.27.04:881][313]LogFileHelpers: Auto-saving content packages took 0.203
+[2019.06.25-02.32.13:666][560]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.06.25-02.32.27:502][ 10]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/HoopGame/GameState.GameState:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HoopGame/NewBlueprint.PackageMetaData'
+[2019.06.25-02.32.27:502][ 10]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/HoopGame/GameState.SKEL_GameState_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HoopGame/NewBlueprint.PackageMetaData'
+[2019.06.25-02.32.27:502][ 10]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/HoopGame/GameState.GameState_C' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HoopGame/NewBlueprint.PackageMetaData'
+[2019.06.25-02.32.27:502][ 10]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/HoopGame/GameState.GameState:EventGraph.K2Node_Event_0' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HoopGame/NewBlueprint.PackageMetaData'
+[2019.06.25-02.32.27:502][ 10]LogMetaData: Removing '/Game/VirtualRealityBP/Blueprints/HoopGame/GameState.GameState:EventGraph.K2Node_Event_1' ref from Metadata '/Game/VirtualRealityBP/Blueprints/HoopGame/NewBlueprint.PackageMetaData'
+[2019.06.25-02.32.27:534][ 10]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/GameStateFF6674E844C5B54511F758B5C7274D3B.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/VirtualRealityBP/Blueprints/HoopGame/GameState.uasset'
+[2019.06.25-02.32.47:919][901]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.25-02.32.50:880][169]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/GameState.GameState
+[2019.06.25-02.32.53:203][403]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/GameState.GameState
+[2019.06.25-02.33.00:690][ 53]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.25-02.34.12:688][957]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.25-02.35.25:373][262]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.06.25-02.37.09:908][195]BlueprintLog: New page: Compile MotionControllerPawn
+[2019.06.25-02.37.10:942][249]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/MotionControllerPawn61D7D53A4ACD24DCDF764E933A38148F.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2019.06.25-02.37.38:009][429]BlueprintLog: New page: Compile MotionControllerPawn
+[2019.06.25-02.37.38:752][453]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/MotionControllerPawn3D6F1F14417045BEF190EE9ED67E9FCA.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2019.06.25-02.37.42:806][923]BlueprintLog: New page: Compile TargetGameBP
+[2019.06.25-02.37.43:508][959]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/TargetGameBPABFA13344C33FCE5AFAB6AA39E3908FE.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/VirtualRealityBP/Blueprints/TargetGame/TargetGameBP.uasset'
+[2019.06.25-02.37.45:838][228]BlueprintLog: New page: Compile HammerGameBP
+[2019.06.25-02.37.46:507][273]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/HammerGameBP8AD138BC43CFD2E00003049A9F53E3F3.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/VirtualRealityBP/Blueprints/HammerGame/HammerGameBP.uasset'
+[2019.06.25-02.38.36:402][391]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Playground_Auto6AC1B975F448FC32C71AB9BBCD27922D6.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/Autosaves/Game/VirtualRealityBP/Maps/Playground_Auto6.umap'
+[2019.06.25-02.38.36:406][391]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/Playground' took 0.273
+[2019.06.25-02.38.36:406][391]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.273
+[2019.06.25-02.45.14:850][438]BlueprintLog: New page: Compile HammerTarget1
+[2019.06.25-02.45.15:493][479]LogSavePackage: Moving '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Saved/HammerTarget1A49B8EBF44D773BC333D06A70E93AE0A.tmp' to '../../../../../../Users/fas00002e2/Desktop/301/CS301/VR_Playground/VR_Playground/Content/VirtualRealityBP/Blueprints/HammerGame/HammerTarget1.uasset'
+[2019.06.25-02.45.37:159][ 58]LogUObjectBase: Warning: Object is not registered
+[2019.06.25-02.45.37:159][ 58]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.06.25-02.45.38:226][ 58]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.067 s
+[2019.06.25-02.45.38:227][ 58]LogOutputDevice: Error: === Handled ensure: ===
+[2019.06.25-02.45.38:227][ 58]LogOutputDevice: Error: 
+[2019.06.25-02.45.38:227][ 58]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1154]
+[2019.06.25-02.45.38:227][ 58]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.06.25-02.45.38:227][ 58]LogOutputDevice: Error: Stack: 
+[2019.06.25-02.45.38:227][ 58]LogOutputDevice: Error: [Callstack] 0x00007ffd70d481d4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.25-02.45.38:227][ 58]LogOutputDevice: Error: [Callstack] 0x00007ffd70d5809e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.06.25-02.45.38:227][ 58]LogOutputDevice: Error: [Callstack] 0x00007ffd6f96bcba UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.06.25-02.45.38:227][ 58]LogOutputDevice: Error: [Callstack] 0x00007ffd6be2769a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.06.25-02.45.38:227][ 58]LogOutputDevice: Error: [Callstack] 0x00007ffd6bde0917 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.06.25-02.45.38:227][ 58]LogOutputDevice: Error: [Callstack] 0x00007ffd77487c74 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.25-02.45.38:227][ 58]LogOutputDevice: Error: [Callstack] 0x00007ffd776d4393 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.25-02.45.38:227][ 58]LogOutputDevice: Error: [Callstack] 0x00007ffd774e2d7a UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.25-02.45.38:227][ 58]LogOutputDevice: Error: [Callstack] 0x00007ffd774dee18 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.25-02.45.38:227][ 58]LogOutputDevice: Error: [Callstack] 0x00007ffd774de483 UE4Editor-Slate.dll!UnknownFunction []
+[2019.06.25-02.45.38:227][ 58]LogOutputDevice: Error: [Callstack] 0x00007ff7e5d87094 UE4Editor.exe!UnknownFunction []
+[2019.06.25-02.45.38:227][ 58]LogOutputDevice: Error: [Callstack] 0x00007ff7e5d9596c UE4Editor.exe!UnknownFunction []
+[2019.06.25-02.45.38:227][ 58]LogOutputDevice: Error: [Callstack] 0x00007ff7e5d959ea UE4Editor.exe!UnknownFunction []
+[2019.06.25-02.45.38:227][ 58]LogOutputDevice: Error: [Callstack] 0x00007ff7e5da48da UE4Editor.exe!UnknownFunction []
+[2019.06.25-02.45.38:227][ 58]LogOutputDevice: Error: [Callstack] 0x00007ff7e5da659a UE4Editor.exe!UnknownFunction []
+[2019.06.25-02.45.38:227][ 58]LogOutputDevice: Error: [Callstack] 0x00007ffdbfa07974 KERNEL32.DLL!UnknownFunction []
+[2019.06.25-02.45.38:227][ 58]LogOutputDevice: Error: [Callstack] 0x00007ffdc037a271 ntdll.dll!UnknownFunction []
+[2019.06.25-02.45.38:227][ 58]LogOutputDevice: Error: 
+[2019.06.25-02.45.38:238][ 58]LogStats:                SubmitErrorReport -  0.000 s
